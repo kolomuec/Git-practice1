@@ -1,0 +1,46 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### build catalog ###
+build/
+
+### jar files ###
+*.jar
+!module2.jar
+
+### application-local.properties ###
+application-local.properties
+
+### .idea ###
+.idea/
+
+### .idea-copy ###
+.idea_copy/
+!idea_copy/workspace.xml
